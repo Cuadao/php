@@ -1,0 +1,10 @@
+body {
+    background-image: url(../img/champios.jpg);
+    repeat: no-repeat;
+    font-size: 16px;
+}
+
+table {
+    font-family: arial;
+    font-size: 18px;
+}
